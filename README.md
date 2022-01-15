@@ -22,3 +22,7 @@
 <a href="https://github.com/Wujoooo/Wujoooo">
   <img src="https://github-readme-stats.vercel.app/api?username=Wujoooo&show_icons=true&theme=dark" />
 </a>
+
+## 📱 Social
+
+- <img width="16" height="16" src="https://raw.githubusercontent.com/Wujoooo/Wujoooo/main/discord.svg" /> Ninjaa#9272
