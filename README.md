@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python)
+![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua)
 
 ![](https://img.shields.io/badge/Library-Laravel-informational?style=flat&logo=laravel)
 
