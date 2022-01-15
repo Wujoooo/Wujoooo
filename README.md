@@ -12,3 +12,12 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php)
 
 ![](https://img.shields.io/badge/Library-Laravel-informational?style=flat&logo=laravel)
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/Wujoooo/Wujoooo">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wujoooo&theme=dark" />
+</a>
+<a href="https://github.com/Wujoooo/Wujoooo">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wujoooo&show_icons=true&theme=dark" />
+</a>
