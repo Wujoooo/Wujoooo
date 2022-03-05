@@ -1,6 +1,6 @@
 ## 🔧 Junior Developer
 
-## 🔧 Technologies & Tools
+### Languages and Tools:
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu)
