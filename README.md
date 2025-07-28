@@ -1,6 +1,6 @@
 ## 🔧 Junior Developer
 
-Cześć! Nazywam się Jakub i jestem początkującym programistą z pasją do tworzenia stron internetowych, rozwiązań backendowych oraz automatyzacji. Aktualnie rozwijam swoje projekty w PHP (Laravel), JavaScript i Pythonie.
+Cześć! Jakub z tej strony, jestem początkującym programistą z pasją do tworzenia stron internetowych, rozwiązań backendowych oraz automatyzacji. Aktualnie rozwijam swoje projekty w PHP (Laravel), JavaScript i Pythonie.
 
 Sprawdź moje portfolio 👉 [jjmotion.pl](https://jjmotion.pl)
 
@@ -25,7 +25,7 @@ Sprawdź moje portfolio 👉 [jjmotion.pl](https://jjmotion.pl)
 
 ---
 
-### 🌐 Znajdź mnie
+### 🌐 Moje sociale
 
 [![Website](https://img.shields.io/badge/WWW-jjmotion.pl-informational?style=flat&logo=googlechrome&logoColor=white&color=bbac9e)](https://jjmotion.pl)
 [![Instagram](https://img.shields.io/badge/Instagram-@jac0b.no-informational?style=flat&logo=instagram&logoColor=white&color=bbac9e)](https://instagram.com/jac0b.no)
