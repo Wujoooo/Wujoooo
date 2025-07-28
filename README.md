@@ -19,21 +19,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://nima.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://nima.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCOAZINHBsXGGP7r82JZt34g#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCOAZINHBsXGGP7r82JZt34g#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/nima#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/nima#gh-dark-mode-only)
+[![website](./img/globe-light.svg)]([https://nima.com#gh-light-mode-only](https://jjmotion.pl))
+[![website](./img/globe-dark.svg)]([https://nima.com#gh-dark-mode-only](https://jjmotion.pl))
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/nima#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nima#gh-dark-mode-only)
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wujoooo&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
