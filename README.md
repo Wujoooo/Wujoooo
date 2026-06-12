@@ -1,31 +1,61 @@
-## 🔧 Junior Developer
+<h1 align="center">Cześć 👋, jestem Jakub</h1>
+<h3 align="center">Junior Developer z Polski — tworzę strony internetowe, rozwiązania backendowe i projekty automatyzacji z pasją do czystego kodu i niestandardowych rozwiązań.</h3>
+<p align="center">
+  🚀 Aktualnie szukam swojej pierwszej pracy jako Junior Developer
+</p>
+<p align="center">
+  <a href="https://jjmotion.pl" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-jjmotion.pl-informational?style=for-the-badge&logo=googlechrome&logoColor=white&color=bbac9e" alt="Portfolio" />
+  </a>
+  <a href="https://instagram.com/jac0b.no" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@jac0b.no-informational?style=for-the-badge&logo=instagram&logoColor=white&color=bbac9e" alt="Instagram" />
+  </a>
+</p>
 
-Cześć! Jakub z tej strony, jestem początkującym programistą z pasją do tworzenia stron internetowych, rozwiązań backendowych oraz automatyzacji. Aktualnie rozwijam swoje projekty w PHP (Laravel), JavaScript i Pythonie.
+🔧 Czym się zajmuję
 
-Sprawdź moje portfolio 👉 [jjmotion.pl](https://jjmotion.pl)
 
----
+Tworzenie stron internetowych i aplikacji webowych z użyciem PHP (Laravel) i JavaScript
+Automatyzacja zadań i skrypty w Pythonie
+Budowanie responsywnych interfejsów z dbałością o szczegóły i UX
+Praca z bazami danych i integracjami backendowymi
+Pisanie czystego, czytelnego kodu i dbanie o strukturę projektów
 
-### 🛠️ Języki i narzędzia
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu)
 
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode)
-![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepadplusplus)
+🛠️ Języki i narzędzia
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
-![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,git,vscode,linux" alt="Umiejętności" />
+  </a>
+</p>
 
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel)
+📊 Statystyki GitHub
 
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wujoooo&show_icons=true&locale=pl&layout=compact&theme=dark" alt="Najczęściej używane języki" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wujoooo&show_icons=true&locale=pl&theme=dark" alt="Statystyki GitHub" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wujoooo&theme=dark" alt="Seria commitów" />
+</p>
 
-### 🌐 Moje sociale
+📫 Kontakt
 
-[![Website](https://img.shields.io/badge/WWW-jjmotion.pl-informational?style=flat&logo=googlechrome&logoColor=white&color=bbac9e)](https://jjmotion.pl)
-[![Instagram](https://img.shields.io/badge/Instagram-@jac0b.no-informational?style=flat&logo=instagram&logoColor=white&color=bbac9e)](https://instagram.com/jac0b.no)
+Chętnie porozmawiam o projektach, współpracy lub możliwościach pracy!
+
+<p>
+  📧 <strong>E-mail:</strong> <a href="mailto:twoj@email.pl">twoj@email.pl</a><br/>
+  🌍 <strong>Portfolio:</strong> <a href="https://jjmotion.pl" target="_blank">jjmotion.pl</a><br/>
+  📸 <strong>Instagram:</strong> <a href="https://instagram.com/jac0b.no" target="_blank">@jac0b.no</a>
+</p>
+
+✌️ Poza kodowaniem lubię: 🎮 grać w gry wideo, 🖥️ śledzić nowinki sprzętowe, ⛩️ oglądać anime, ⛰️ chodzić po górach, 🎵 słuchać muzyki i 🧑‍💻 eksplorować najnowsze osiągnięcia w technologii.
+
+
+<p align="center">
+  <em>"Sometimes my hands are miracle beware of them."</em>
+</p>
